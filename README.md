@@ -2556,3 +2556,5 @@ ngAfterViewInit() / ngAfterContentInit()
 2. https://medium.com/@Rushabh_/angular-basic-to-advance-every-concept-explained-part-1-e8f8692e04b3
 3. https://medium.com/@schaman762/if-you-can-answer-these-8-angular-concepts-correctly-youre-decent-engineer-1bf26f1e6877
 4. https://iammadhankumar.medium.com/angular-must-know-advanced-concepts-c46078e79a52
+5. https://medium.com/@vupham2909/beating-the-steep-learning-curve-for-angular-76fed11131e6
+6. https://dev.to/renukapatil/beginners-roadmap-your-guide-to-starting-with-angular-2958
